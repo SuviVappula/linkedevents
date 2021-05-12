@@ -33,4 +33,4 @@ resources:
     name: linkedevents-platta/linkedevents-platta-pipelines
 
 extends:
-  template: azure-pipelines-linkedevents-platta-api.yml@hauki-pipelines
+  template: azure-pipelines-linkedevents-platta-api.yml@linkedevents-platta-pipelines
