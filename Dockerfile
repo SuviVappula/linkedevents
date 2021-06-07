@@ -1,6 +1,6 @@
 FROM ubuntu:20.04
 RUN apt-get update -y 
-RUN apt-get install -y telne
+RUN apt-get install -y telnet
 RUN apt-get install -y traceroute
 RUN apt-get install -y postgresql-client
 
