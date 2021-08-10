@@ -35,4 +35,4 @@ extends:
   # Django example: azure-pipelines-PROJECTNAME-api-master.yml
   # Drupal example: azure-pipelines-PROJECTNAME-master.yml
   #template: azure-pipelines-merged-django-testi-api-master.yml@merged-django-testi-pipelines
-  template: azure-pipelines-test-api-devtest.yml@multiple-django-test2-pipelines
+  template: azure-pipelines-multiple-pgbouncer-api4-devtest.yml@multiple-django-test2-pipelines
